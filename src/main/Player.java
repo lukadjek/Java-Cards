@@ -2,7 +2,7 @@ package main;
 
 /**
  * 
- * @author lucca
+ * @author Luka
  *	Class name: Player
  *	Class job: this class is used for testing. It can load a file with a set of questions and answers.
  *	Furthermore, it should provide a simple and intuitive GUI for a user to test his/her knowledge 
