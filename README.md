@@ -3,7 +3,7 @@ SPECIFICATION
 Short description: This software is useful for anyone who is willing to test their knowledge in an interesting, fun and proactive way. It can be used for students to quickly check up on their subject before any oral exam by getting a question, answering by-heart, getting next question and so on until there's no more questions! Of course, all questions and their appropriate answers are created by the user.
 
 *** Available options for "BUILDER" gui:
-1. add one question, add one answer, save it one card, continue
+1. add one question, add one answer, save it as one card, continue
 2. checks and help added: 
     * a) question area cannot be empty
     * b) answer area cannot be empty
