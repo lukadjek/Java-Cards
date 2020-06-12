@@ -28,7 +28,7 @@ Important note: whole code is written manually ("design" tab from Eclipse was no
     * a) loaded file must not be empty
     * b) loaded file must be of ".txt" extension
     * c) loaded file must be created from the "create new card set" menu option (it's document style must look like this:
-         $NUM.$QUESTION: $QUESTION_TEXT$ ; ANSWER: $ANSWER_TEXT$ )
+         $NUM.$QUESTION: $QUESTION_TEXT$ ; ANSWER: $ANSWER_TEXT$ ); ($NUM.$ represents the question number)
     * d) ".txt" extension must be set explicitly in the file name itself
 3. after successful file load/selection, an appropriate information message is displayed and the game can finally begin
 4. game process: 
@@ -41,5 +41,11 @@ Important note: whole code is written manually ("design" tab from Eclipse was no
      * g) button text is changed from "show answer" to "show question"
      * h) user is content as he got it right/user is disappointed because he missed it
      * i) the whole process is repeated from a) to h) until there is no more questions in the loaded file
+     * j) shortcut to open this menu option: CTRL + 9
 5. name of the current loaded file is displayed next to the "show question"/"show answer" button
+
+*** Available options for "exit" menu option:
+1. by clicking on this menu option, the whole program ends and all open windows are closed.
+2. shortcut to open this menu option: CTRL + 0
+
 
